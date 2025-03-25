@@ -141,17 +141,14 @@
             <span class="trait">Hard working</span>
         </div>
     </header>
-
     <section id="about">
         <h2>About Me</h2>
         <p>I am an applied chemistry professional with extensive research experience in biological products, organic synthesis, and materials science. My work spans from laboratory research to practical applications in the pharmaceutical and biotechnology industries.</p>
         <p>With a strong interest in the energy research area of chemistry, I am always ready and willing to learn new concepts and able to master them quickly by adjusting myself and overcoming difficulties in diverse, multicultural environments.</p>
         <p>I excel at multitasking when required, though I prefer focusing deeply on one task at a time. I enjoy sharing knowledge and discussing innovations with others through effective communication.</p>
     </section>
-
     <section id="experience">
-        <h2>Professional Experience</h2>
-        
+        <h2>Professional Experience</h2>      
         <div class="experience-item">
             <div class="job-title">R&D Employee</div>
             <div class="company">Guangzhou Baiyunshan Bai Di Bio-technology Co. Ltd.</div>
@@ -163,9 +160,8 @@
                 <li>Mastered techniques for culturing cells, bacteria, and identification methods</li>
                 <li>Developed processes to dissolve animal tissue and transform it into bioproducts for human use</li>
             </ul>
-        </div>
-        
-        <div class="experience-item">
+        </div>      
+     <div class="experience-item">
             <div class="job-title">Research Assistant</div>
             <div class="company">Zhuhai Laboratory for Supramolecular Materials of Jilin University</div>
             <div class="date">2021/02 - 2021/06</div>
@@ -176,8 +172,7 @@
                 <li>Designed and synthesized CPDs via organic methods, improving luminescence strength through surface modification</li>
                 <li>Characterized products using UV-Vis, FL, IR, SEM</li>
             </ul>
-        </div>
-        
+        </div>   
         <div class="experience-item">
             <div class="job-title">Production Assistant (R&D Department)</div>
             <div class="company">Shenzhen Sungening BIO-Technology Co., Ltd.</div>
@@ -191,7 +186,6 @@
                 <li>Learned approximately 50 organic synthesis reactions and chemical identification methods (TLC, HPLC, H-NMR, C-NMR, Mass Spectrometry)</li>
             </ul>
         </div>
-        
         <div class="experience-item">
             <div class="job-title">Research Assistant</div>
             <div class="company">State Key Lab of Superamolecular Structure and Materials, Jilin University</div>
@@ -203,7 +197,7 @@
             </ul>
         </div>
     </section>
-
+\
     <section id="education">
         <h2>Education</h2>
         <div class="education-item">
@@ -217,10 +211,10 @@
             <div class="date">2014/09 - 2017/06</div>
         </div>
     </section>
-
+\
     <section id="research-projects">
         <h2>Research Projects</h2>
-        
+        \
         <div class="experience-item">
             <div class="job-title">Key Member of National Undergraduate Project</div>
             <div class="company">Zhuhai Laboratory for Supramolecular Materials of Jilin University</div>
@@ -235,7 +229,7 @@
                 <li>Created automatic sample injector with 3D printing and programmed controller to integrate components</li>
             </ul>
         </div>
-        
+        \
         <div class="experience-item">
             <div class="job-title">In Charge of Innovation and Entrepreneurship Training Program</div>
             <div class="company">Zhuhai College of Jilin University</div>
@@ -250,7 +244,7 @@
             </ul>
         </div>
     </section>
-
+\
     <section id="skills">
         <h2>Skills & Expertise</h2>
         <div class="skills-container">
@@ -281,7 +275,7 @@
             </div>
         </div>
     </section>
-
+\
     <section id="publications">
         <h2>Publications</h2>
         <div class="publication">
@@ -295,7 +289,7 @@
             <div><em>IOP Conference Series: Materials Science and Engineering</em>, vol. 569, no. 2, p. 022039. IOP Publishing, 2019.</div>
         </div>
     </section>
-
+\
     <footer>
         <p>© 2023 Zhenwei Zhang. All rights reserved.</p>
         <p>Contact: bbgstark@hotmail.com | +86 13326452448</p>
